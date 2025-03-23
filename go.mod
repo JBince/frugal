@@ -1,4 +1,4 @@
-module github.com/Workiva/frugal
+module github.com/Workiva/frugal-public
 
 go 1.20
 
